@@ -1,4 +1,4 @@
-# MedAssist AI — Assignment 10 (Medical Healthcare Agents)
+# MedAssist AI 
 
 A coursework prototype using FastAPI, Agno's three-member coordinated team, Groq, PubMed literature lookup, Streamlit, Docker Compose, Kubernetes manifests, and pytest.
 
